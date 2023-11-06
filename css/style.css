@@ -1,0 +1,20 @@
+/* b. Добавить обнуление стилей. c. Добавить все необходимые отступы margin,
+padding. Все домашние задания являются повторением того что делается на семинаре,
+поэтому перед выполнением обязательно посмотрите семинар. */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    /* Home About Us Services Features Team Blog Contact */
+    position: absolute;
+    width: 533px;
+    height: 17px;
+    font-family: 'Gilroy-SemiBold';
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height */
+    color: #F25822;
+}
